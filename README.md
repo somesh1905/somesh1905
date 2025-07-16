@@ -11,8 +11,6 @@
 
 - 💬 Ask me about *javascript , React, Node.js , Express.js , java
 
-- 
-
 - 📫 How to reach me *someshkale2020@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
