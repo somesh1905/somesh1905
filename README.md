@@ -3,9 +3,9 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapbhingare&label=Profile%20views&color=0e75b6&style=flat" alt="pratapbhingare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh1905&label=Profile%20views&color=0e75b6&style=flat" alt="somesh1905" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pratapbhingare" target="blank"><img src="https://img.shields.io/twitter/follow/pratapbhingare?logo=twitter&style=for-the-badge" alt="pratapbhingare" /></a> </p>
+<p align="left"> <a href="https://twitter.com/somesh1905" target="blank"><img src="https://img.shields.io/twitter/follow/pratapbhingare?logo=twitter&style=for-the-badge" alt="somesh1905" /></a> </p>
 
 - 🌱 I’m passionate Web Devloper.
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/somesh1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratapbhingare" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/somesh1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratapbhingare" height="30" width="40" /></a>
-<a href="https://instagram.com/__pratap_bhingare__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pratap_bhingare_" height="30" width="40" /></a>
+<a href="https://instagram.com/__Somesh_Kale__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_Somesh_Kale_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
